@@ -11,6 +11,10 @@ We will download 6.0 version because it's free. Versions higher than this are pa
 
 Now Install it.
 
+<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### What is Laragon?
 
 Laragon is a local web development tool. Helps us run MySQL locally, also provides phpmyadmin, which makes using mysql very easy.
