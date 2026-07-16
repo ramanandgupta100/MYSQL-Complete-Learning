@@ -2,7 +2,7 @@
 
 ## Laragon
 
-Laragon provides local web development environment. Helps us run MySQL locally, also provides phpmyadmin, which makes using mysql very easy.
+[Laragon ](https://laragon.org/)provides local web development environment. Helps us run MySQL locally, also provides phpmyadmin, which makes using mysql very easy.
 
 ## Download Laragon
 
