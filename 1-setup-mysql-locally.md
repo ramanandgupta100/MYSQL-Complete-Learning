@@ -1,4 +1,6 @@
-# Setup MySQL Locally
+# 1 Setup MySQL Locally
+
+#### Laragon is the easiest way to setup MySQL for beginners. in just under 5 minutes.
 
 ## Download Laragon
 
