@@ -8,4 +8,4 @@
 * [5 Login into MySQL](5-login-into-mysql.md)
 * [6 Database Commands](6-database-commands.md)
 * [7 Table Commands](7-table-commands.md)
-* [How to Export Data?](how-to-export-data.md)
+* [8 How to Export Data?](8-how-to-export-data.md)
