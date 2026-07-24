@@ -10,4 +10,4 @@
 * [7 Table Commands](7-table-commands.md)
 * [8 How to Export Data?](8-how-to-export-data.md)
 * [How to Write COMMENTS ?](how-to-write-comments.md)
-* [Mysql Online Playground](mysql-online-playground.md)
+* [Mysql ONLINE PLAYGROUND](mysql-online-playground.md)
