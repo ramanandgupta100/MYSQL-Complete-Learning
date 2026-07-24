@@ -9,3 +9,4 @@
 * [6 Database Commands](6-database-commands.md)
 * [7 Table Commands](7-table-commands.md)
 * [8 How to Export Data?](8-how-to-export-data.md)
+* [How to Write COMMENTS ?](how-to-write-comments.md)
