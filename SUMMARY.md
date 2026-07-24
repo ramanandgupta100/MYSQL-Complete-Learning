@@ -1,6 +1,7 @@
 # Table of contents
 
 * [MYSQL](README.md)
+* [Mysql ONLINE PLAYGROUND](mysql-online-playground.md)
 * [1 Setup MySQL Locally](1-setup-mysql-locally.md)
 * [2 How to use MYSQL from PhpMyAdmin ?](2-how-to-use-mysql-from-phpmyadmin.md)
 * [3 How to use MYSQL from Terminal ?](3-how-to-use-mysql-from-terminal.md)
@@ -10,4 +11,5 @@
 * [7 Table Commands](7-table-commands.md)
 * [8 How to Export Data?](8-how-to-export-data.md)
 * [How to Write COMMENTS ?](how-to-write-comments.md)
-* [Mysql ONLINE PLAYGROUND](mysql-online-playground.md)
+* [Database Normalization](database-normalization.md)
+* [ER Diagrams](er-diagrams.md)
